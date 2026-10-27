@@ -2,7 +2,7 @@
 
 A reading list app where you add books, mark them as read and track your progress. Built in Lecture 11 and part of my portfolio: https://github.com/Naman-Chandak
 
-**Live app:** ADD_YOUR_VERCEL_LINK_HERE
+**Live app:** https://book-reading-list-app-three.vercel.app
 
 ## Features
 
